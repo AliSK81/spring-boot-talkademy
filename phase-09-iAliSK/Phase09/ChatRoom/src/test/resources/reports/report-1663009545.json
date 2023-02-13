@@ -1,0 +1,28 @@
+{
+  "reportId" : 1663009545,
+  "createdAt" : "2022-09-12T19:05:45.919301",
+  "generalReport" : {
+    "totalUsers" : 3,
+    "totalRooms" : 2,
+    "totalMessages" : 15
+  },
+  "usersReport" : [ {
+    "userId" : 3,
+    "messages" : 7
+  }, {
+    "userId" : 2,
+    "messages" : 3
+  }, {
+    "userId" : 1,
+    "messages" : 5
+  } ],
+  "roomsReport" : [ {
+    "roomId" : 1,
+    "members" : 3,
+    "messages" : 5
+  }, {
+    "roomId" : 2,
+    "members" : 2,
+    "messages" : 10
+  } ]
+}
